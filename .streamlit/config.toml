@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#005f99"              # Un azul intenso para elementos primarios.
+backgroundColor = "#FFFFFF"           # Fondo blanco para las imágenes.
+secondaryBackgroundColor = "#e1f5fe"  # Un azul cielo muy claro para áreas secundarias.
+textColor = "#00334e"                 # Azul oscuro para el texto, garantiza buena legibilidad.
+font = "sans serif"
