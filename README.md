@@ -1,27 +1,14 @@
-# [Sophisticated Palette](https://sophisticated-palette.streamlit.app/)
-
-A [Streamlit](https://streamlit.io/) 🎈 web app to help you tell your data story in style! Do you have a sophisticated palette? 
+Una aplicación Web de [Streamlit](https://streamlit.io/) para ayudar a analizar archivos en formato PDF.
 
 
 
-[<img src="media/example_sophisticated_palette.png" >](https://sophisticated-palette.streamlit.app/)
+[<img src="./images/pdf_2497547.png" >](https://sophisticated-palette.streamlit.app/)
 
 
 ---
 
-**Sophisticated Palette** is a machine learning powered web app that allows you to infer color palettes from any input image. Simply upload your `jpg` or `png` files, or copy the url of your favorite artwork in the input box, click the button and let the magic happen. 
+**PDF ANALYZER** Es una herramienta que utiliza la API de Open AI para procesar archivos en formato `pdf` y lograr obtener información relevante a cerca de su contenido.
 
 
-<img src="media/example_adopt.png" width="500">
+<img src="./images/robot-with-books.jpg" width="500">
 
-Use the provided code snippets in the app to adopt the color palette and port it to `matplotlib`
-
-<img src="media/example_matplotlib.png" width="500">
-
-or `plotly`
-
-<img src="media/example_plotly.png" width="500">
-
-It's that simple! Now why are you still here? Go check out the [app](https://sophisticated-palette.streamlit.app/) and have fun. 
-
-Don't forget to ⭐️ the repo 👆 so you can find it easily later.
