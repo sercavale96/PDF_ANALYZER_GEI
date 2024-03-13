@@ -1,8 +1,5 @@
 import os
 import sys
-import pandas as pd
-import numpy as np 
-import requests
 from io import BytesIO
 from glob import glob
 from PIL import Image, ImageEnhance
@@ -13,16 +10,7 @@ import io
 from datetime import datetime
 import os
 import base64
-from googleapiclient.discovery import build
-from google.oauth2.service_account import Credentials
-from googleapiclient.http import MediaIoBaseDownload
-import zipfile
 import json
-import pytz
-import requests
-import pandas as pd
-import numpy as np
-import sqlite3
 
 # Inicialización de la API de OpenAI
 client = openai
